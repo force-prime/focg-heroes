@@ -1,0 +1,29 @@
+[package]
+cairo-version = "2.4.0"
+name = "heroes"
+version = "0.1"
+
+[cairo]
+sierra-replace-ids = true
+
+[dependencies]
+dojo = { git = "https://github.com/dojoengine/dojo", version = "0.4.1" }
+
+[[target.dojo]]
+
+[tool.dojo]
+initializer_class_hash = "0xbeef"
+
+[tool.dojo.env]
+rpc_url = "http://localhost:5050/"
+# Default account for katana with seed = 0
+account_address = "0x517ececd29116499f4a1b64b094da79ba08dfd54a3edaa316134c41f8160973"
+private_key = "0x1800000000300000180000000000030000000000003006001800006600"
+
+[tool.dojo.world]
+name = "Force Prime Heroes"
+description = "Force Prime Heroes is a fully on-chain game inspired by the Heroes of Might and Magic series. Explore the map with your hero, hire troops, defeat enemies and lead your army to victory."
+icon_uri = "file://assets/icon.jpg"
+website = "https://heroes.forceprime.io"
+socials.x = "https://twitter.com/ForcePrime_io"
+socials.github = "https://github.com/force-prime"

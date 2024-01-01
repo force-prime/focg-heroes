@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db122b1c1af62cf4882491f047ac4e8d, type: 3}
+  m_Name: GameDescription
+  m_EditorClassIdentifier: 
+  mainMap: {fileID: 5596669719130419864, guid: e701facb8f78448819ef10eca6ba1a62, type: 3}
+  units:
+  - {fileID: 11400000, guid: ed52dc4298b09394aa2368bb97d5ef47, type: 2}
+  - {fileID: 11400000, guid: e40cd8ae265762f459a9afff4f5c44d2, type: 2}
+  - {fileID: 11400000, guid: 4cbb4ff9d693d6a449ff9e65b7301d5c, type: 2}
+  - {fileID: 11400000, guid: e27072c8fbb07094ca0851d1510d8afc, type: 2}
+  - {fileID: 11400000, guid: d7e6c25bbdd43914e8d58dcf51eab9f3, type: 2}
+  - {fileID: 11400000, guid: 0b5bce0bd4e367c4e8edf0d52f6690e0, type: 2}
+  - {fileID: 11400000, guid: 4f74aafe571404e4eb7434587c9e5cdd, type: 2}
+  - {fileID: 11400000, guid: af8a2b4ed5b1b5940b79407bbc656ee5, type: 2}
+  - {fileID: 11400000, guid: 8ded750d600e76d4eb2568b141a1d252, type: 2}
+  - {fileID: 11400000, guid: 71c43f1f38e3e834c81c8282f09abb52, type: 2}
+  - {fileID: 11400000, guid: 57234edb50f8d9e4b97002fd37910936, type: 2}
+  - {fileID: 11400000, guid: e6fd58759d80a514a8bca17b54c5abaa, type: 2}
+  - {fileID: 11400000, guid: c65c48493be0b3b40814b8c40f9741de, type: 2}
+  - {fileID: 11400000, guid: d98fb17ce0262a445a38513073faf56c, type: 2}
+  - {fileID: 11400000, guid: f01766b6ab705f74ab52b9777e0e7b1c, type: 2}
+  - {fileID: 11400000, guid: c2bd7b93b4a09a24399c6ba5a461f1b9, type: 2}
+  - {fileID: 11400000, guid: 704cdff77012dea498c6315ee5d1da01, type: 2}
+  - {fileID: 11400000, guid: 5e4fb7ee4fb87d4409ea7c1ba8fc2625, type: 2}
+  - {fileID: 11400000, guid: bee6a242f9444f647a634d3c49b1ab1e, type: 2}
+  - {fileID: 11400000, guid: 35a6cc272851ef246bdd3ef705508c82, type: 2}
+  - {fileID: 11400000, guid: 27c15d25679df014ea547610c7046a2c, type: 2}

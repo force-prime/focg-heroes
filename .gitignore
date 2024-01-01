@@ -1,0 +1,15 @@
+target
+.vscode
+scarb.lock
+/unity-client/HeroesUnityClient/.vs
+/unity-client/HeroesUnityClient/Library
+/unity-client/HeroesUnityClient/Logs
+/unity-client/HeroesUnityClient/obj
+/unity-client/HeroesUnityClient/Temp
+/unity-client/HeroesUnityClient/.vsconfig
+/unity-client/HeroesUnityClient/*.csproj
+/unity-client/HeroesUnityClient/HeroesUnityClient.sln
+/unity-client/HeroesUnityClient/UserSettings
+.vsconfig
+.DS_Store
+/unity-client/HeroesUnityClient/Builds
